@@ -1,0 +1,41 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+h1 {
+    color: #029241;
+}
+
+h2 {
+    color: #000000;
+}
+  
+h3 {
+    color: #333333;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+li {
+    content: "•"; /* Insert content that looks like bullets */
+    padding-right: 8px;
+    color: blue; /* Or a color you prefer */
+}
+body {
+
+}
+p {
+    color: #444444;  
+}
+  
+a {
+
+    color: #440000;
+}
